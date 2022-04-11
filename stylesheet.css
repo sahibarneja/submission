@@ -1,0 +1,55 @@
+        body{
+            background-color: #0075ff;
+            background-image: url(https://cdn.froont.com/froont/ooo5or/_static-uploads/images/thumbnail/hero-pattern-02.png_1262x900.png);
+        }
+        #header-row{
+            background-color:#2b2f36;
+            color:#f1f1f1;
+            width: 100%;
+            position:fixed;
+            top: 0;
+            left:0;
+            font-size:16px;
+        }
+        #froontFirstElement
+        {
+            padding-left: 180px;
+            padding-right: 200px;
+            font-family:"PT Sans",Tahoma,Verdana,sans-serif;
+        }
+        #FeaturesHeaderElement{
+            padding-left: 10px;
+            font-weight: 300;
+            line-height: 1.4;
+        }
+        #PricingHeaderElement{
+            padding-left:10px;
+        }
+        #Showcase_Header_element{
+            padding-left:10px;
+        }
+        #Login_Header_element{
+            padding-left:10px;
+        }
+        #Signup_Header_element{
+            padding-left: 10px;
+            padding-right: 80px;
+            color:#56bff5;
+            font-family:'Times New Roman', Times, serif; 
+        }
+        #secondStrip{
+            padding-top:80px;
+            padding-bottom:5px;
+            background-color: #56bff5;
+            color:rgba(255,255,255, 0.8);
+            width:100%;
+            text-align: center;
+            font-size: .9rem;
+            font-family:Roboto,Helvetica,Arial,sans-serif;
+        }
+        .MainText
+        {
+            text-align: center;
+            color:#f1f1f1;
+        }
+    
