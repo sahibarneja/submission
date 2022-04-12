@@ -1,6 +1,10 @@
         body{
             background-color: #0075ff;
             background-image: url(https://cdn.froont.com/froont/ooo5or/_static-uploads/images/thumbnail/hero-pattern-02.png_1262x900.png);
+            margin: 0px;
+        }
+        a{
+            text-decoration: none;  
         }
         #header-row{
             background-color:#2b2f36;
@@ -20,7 +24,7 @@
             font-family:"PT Sans",Tahoma,Verdana,sans-serif;
             font-size:xx-large;
             color:whitesmoke;
-            text-decoration: none;  
+            
         }
         .header_elements{
             text-decoration: none;
@@ -35,56 +39,72 @@
             color:#56bff5;
             font-family:sans-serif;
             font-weight:100 ; 
-            text-decoration: none;
         }
         #secondStrip{
-            margin-top: 60px;
-            padding-top: 13px;
-            padding-bottom:5px;
-            background-color: #56bff5;
-            color:rgba(255,255,255, 0.8);
-            width: 100%;
-            text-align: center;
-            left:0;
-            font-size: .9rem;
-            font-family:sans-serif;
-            font-weight:100;
-        }
-        .MainText
-        {   padding-top: 20px;
+
+                margin-top: 70px;
+                padding-top: 25px;
+                padding-left:0px;
+                padding-right: 0px;
+                padding-bottom:25px;
+                background-color: #56bff5;
+                color:rgba(255,255,255, 0.8);
+                width:100%;
+                text-align: center;
+                font-size: .9rem;
+                font-family:sans-serif;
+                font-weight:100;
+            }
+        .MainText{
+            padding-top: 20px;
             font-size: 20px;
             text-align: center;
             color:#f1f1f1;
-            font-family:'Times New Roman', Times, serif;
-            font-weight: 300;
+            font-family:sans-serif;
+            font-weight:400; 
         }
-        #UnderMainText
-        {
+        #UnderMainText{
             text-align: center;
             color: rgba(255, 255, 255, 0.8);
             font-weight: 100;
         }
-        button
-        {   
+        button{   
            margin-top: 10PX;
            width:280px ;
            height:50px;
            border:1;
            border-color: white;
-            text-align: center;
+           text-align: center;
 
         }
-        #FirstButton
-        {   margin-left:380px;
+        #FirstButton{
+            margin-left:380px;
+            margin-right:10px;;
             background-color: transparent;
             color: white;
         }
-        #SecondButton
-        {   margin-left: 10px;
+        #SecondButton{ 
             background-color: whitesmoke;
             color:#0075ff;
         }
-        #Main_Image
-        {
-            width: 100px;
+        #Main_Image{   
+            padding-left:100px;
+            max-width:80%;
+            max-height:75%;
         }
+        .scrolldown_01{
+            background-color: white;
+            width:100%;
+            height:100px;
+        }
+        #ScrollDownText01
+        {       padding-top: 30px;
+                color: #323842;
+                text-align:center;    
+        }   
+        #tnail01{
+            padding-left:20px;
+                width:150 px;
+            }
+
+        
