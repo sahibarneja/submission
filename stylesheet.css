@@ -21,7 +21,7 @@
             padding-left: 180px;
             padding-right: 200px;
            
-            font-family:"PT Sans",Tahoma,Verdana,sans-serif;
+            font-family: 'Montserrat', sans-serif;
             font-size:xx-large;
             color:whitesmoke;
             
@@ -30,14 +30,14 @@
             text-decoration: none;
             color:#ffffff;
             padding-left:10px;
-            font-family: sans-serif;
+            font-family:'Montserrat', sans-serif;
             font-weight: 100;
         }
         #Signup_Header_element{
             padding-left: 10px;
             padding-right: 80px;
             color:#56bff5;
-            font-family:sans-serif;
+            font-family:'Montserrat', sans-serif;
             font-weight:100 ; 
         }
         #secondStrip{
@@ -52,7 +52,7 @@
                 width:100%;
                 text-align: center;
                 font-size: .9rem;
-                font-family:sans-serif;
+                font-family:'Montserrat', sans-serif;
                 font-weight:100;
             }
         .MainText{
@@ -60,7 +60,7 @@
             font-size: 20px;
             text-align: center;
             color:#f1f1f1;
-            font-family:sans-serif;
+            font-family:'Montserrat', sans-serif;
             font-weight:400; 
         }
         #UnderMainText{
@@ -103,7 +103,7 @@
             padding-bottom: 15px;
             text-align:center;
             font-weight: lighter;
-            font-family:sans-serif;
+            font-family:'Montserrat', sans-serif;
             height: 650px;
         }
         .thumbnails
@@ -165,7 +165,7 @@
             font-size: 31px;
             padding-left:10%;
             color:rgba(50,56,66,0.8);
-            font-family: sans-serif;
+            font-family: 'Montserrat', sans-serif;
             font-weight: 100;
         }
         #text_under
@@ -209,7 +209,7 @@
             font-size: large;
             padding-left: 250px;
             font-weight: lighter;
-            font-family: sans-serif ;
+            font-family: 'Montserrat', sans-serif;
         }
         #last_div
         {
@@ -250,4 +250,38 @@
             width: 525px;
             height: 214px;
         }
-        
+        #scrolldown_06
+        {
+            background-color: #323842;
+            margin-top: -16px;
+        }
+        #heading_scrolldown_06
+        {   padding-top: 40px;
+            color: white;
+            padding-left: 28%;
+            font-size: 32px;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 100;
+            margin-bottom: 20px;
+        }   
+        #paragraph_scrolldown_06
+        {   font-weight: 200;
+            font-size: 1.0rem;
+            text-align: center;
+            color: rgba(255,255,255,0.8);
+            padding-top: 0px;
+            font-family: 'Montserrat', sans-serif;
+        }
+        .heading_scrolldown_06
+        {
+            color:#ffffff;
+            font-family:sans-serif;
+            letter-spacing: 2px;
+        }
+        .text_scrolldown_06
+        {
+            color: rgba(255, 255, 255, 0.7);
+            font-family:sans-serif;
+            font-weight: lighter;
+            padding-bottom: 80px;
+d
