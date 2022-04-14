@@ -184,6 +184,7 @@
         {
             background-color: #323842;
             width:100%;
+            margin-bottom: 0px;
         }
         #large_Img
         {
@@ -208,4 +209,13 @@
             padding-left: 250px;
             font-weight: lighter;
             font-family: sans-serif ;
+        }
+        #last_div
+        {
+            background-color: #242424;
+            height: 40px;
+            max-width: 100%;
+            padding-left: 40%;
+            margin-top: 0px;
+            
         }
