@@ -220,4 +220,34 @@
             margin-top: -15px;
             margin-bottom: 0px;
             
+        }   
+        #scrolldown_05
+        {
+            background-color: white ;
+            padding-bottom: 90px;
         }
+        #table_Image
+        {   padding-left: 300px;
+            width: 300px;
+            height: 255px;
+        }
+        #table_data
+        {
+            font-size: 1.1rem; 
+            color: rgba(50, 56, 66, 0.8);
+            width: 420px;
+            padding-left: 130px;
+            line-height: 1.8;
+        }
+        #table_headings
+        {   margin-left:-100px;
+            font-size:25.6px;
+            color:rgba(50, 56, 66,0.9);
+            width: 420px;
+        }
+        #table_Image02
+        {   padding-left: 60px;
+            width: 525px;
+            height: 214px;
+        }
+        
